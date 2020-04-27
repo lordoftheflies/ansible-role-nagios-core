@@ -1,0 +1,4 @@
+---
+# roles/nagios-core/vars/debian.yml
+
+nagios-core_package_extension: 'rpm'

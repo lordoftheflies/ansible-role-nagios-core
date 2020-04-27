@@ -1,0 +1,5 @@
+---
+# roles/nagios-core/vars/debian.yml
+
+# Debian specific vars
+nagios-core_package_extension: 'deb'
